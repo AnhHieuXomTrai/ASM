@@ -1,0 +1,147 @@
+{
+  "tours": [
+    {
+      "id": "d836",
+      "name": "uhuhuhuhkaka",
+      "destination": "Tour quốc tế",
+      "duration": "2ngay3dem",
+      "price": 212121,
+      "image": "https://authentic-shoes.com/wp-content/uploads/2024/10/Nike-Book-1-Sunrise-Pink-Foam-HJ.png",
+      "description": "kmkll",
+      "available": 20,
+      "active": false
+    },
+    {
+      "id": "ef5b",
+      "name": "uhuhuhuhkaka",
+      "destination": "Tour nội địa",
+      "duration": "2ngay3dem",
+      "price": 212121,
+      "image": "https://picsum.photos/400/300?random=2",
+      "description": "  nn",
+      "available": 20,
+      "active": false
+    },
+    {
+      "name": "anhhieudeptrai",
+      "destination": "Tour nội địa",
+      "duration": "3ng",
+      "price": 1223234,
+      "image": "https://i.pinimg.com/736x/87/41/e6/8741e682c9bfbe197f4ac0732a35c15c.jpg",
+      "description": "mkesfs",
+      "available": 20,
+      "id": "dmhpTSv",
+      "active": true
+    }
+  ],
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Sapa",
+      "icon": "🏔️",
+      "description": "Thiên đường núi rừng Tây Bắc"
+    },
+    {
+      "id": "2",
+      "name": "Hạ Long",
+      "icon": "🌊",
+      "description": "Kỳ quan thiên nhiên thế giới"
+    },
+    {
+      "id": "3",
+      "name": "Đà Lạt",
+      "icon": "🌺",
+      "description": "Thành phố ngàn hoa"
+    }
+  ],
+  "trending": [
+    {
+      "id": "1",
+      "title": "TP. Hồ Chí Minh",
+      "image": "https://btnmt.1cdn.vn/2022/12/23/bcp.cdnchinhphu.vn-334894974524682240-2022-12-23-_dien-tich-cac-quan-tai-ho-chi-minh-1-16717832922811126226268.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Đà Nẵng",
+      "image": "https://img5.thuthuatphanmem.vn/uploads/2022/01/13/hinh-anh-thanh-pho-da-nang-ve-dem-dep_024513140.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Hà Nội",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.OHLVdxiHqnVWojrhD0WvOgHaDX?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4",
+      "title": "Tây Ninh",
+      "image": "https://file.hstatic.net/1000169629/file/vung_tau_a5b6ddbb954140c0941c48e0273e18b5.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Đà Lạt",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Lp3eque6TJO4nO88jqmomgHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "6",
+      "title": "Hà Giang",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.L6iyuVwYhQluh8CtMNTNxwHaE8?pid=Api&P=0&h=180"
+    }
+  ],
+  "tourlist": [
+    {
+      "id": "1",
+      "title": "Đà Lạt - Thác Dambri - Vườn Châu Âu - Mongo Land - Samten Hills",
+      "image": "https://s3-cmc.travel.com.vn/vtv-image/Images/TourFiles/10188/066bdbb7bab410ea49a5.webp"
+    },
+    {
+      "id": "2",
+      "title": "Đông Bắc: Hà Giang - Lũng Cú - Đồng Văn - Làng Lô Lô Chải ",
+      "image": "https://s3-cmc.travel.com.vn/vtv-image/Images/Tour/tfd__2_13054_meo-vac-and-dong-van-town1.webp"
+    },
+    {
+      "id": "3",
+      "title": "Đại Lễ Vesak 2025 Khám phá Tây Ninh vùng đất địa linh",
+      "image": "https://s3-cmc.travel.com.vn/vtv-image/Images/Tour/tfd__0_11611_dji0984e.webp"
+    },
+    {
+      "id": "4",
+      "title": "Đà Nẵng - Bà Nà - Cầu Vàng - Sơn Trà - Phổ Cổ Hội An - La Vang ",
+      "image": "https://s3-cmc.travel.com.vn/vtv-image/Images/Tour/tfd__1_10656_banahill4.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": "3e67",
+      "username": "nguyenminhthang6",
+      "email": "hoangkhai6979b@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "70ab",
+      "email": "hoangkhai6979b@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "a8c1",
+      "username": "nguyenminhthang6",
+      "email": "hgofjgfd@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "73cb",
+      "email": "hgofjgfh@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "7013",
+      "username": "03winter03",
+      "email": "admin@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "email": "hoangkhai2000a@gmail.com",
+      "password": "$2a$10$42QMOsn9eyhHEACJjMOwW.O65VQirextNygMPj94Dn51.7pLRkehy",
+      "username": "03winter03",
+      "id": "tsDDrPR"
+    }
+  ]
+}
