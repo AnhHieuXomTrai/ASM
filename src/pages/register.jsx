@@ -18,19 +18,21 @@ function Register() {
     event.preventDefault();
 
     if (!form.username || !form.email || !form.password) {
-      window.alert("Vui lòng nhập đầy đủ thông tin!");
+      alert("Vui lòng nhập đầy đủ thông tin!");
+      return;
     }
 
     try {
-      await axios.post("http://localhost:3000/register", {
-        ...form,
-      });
+      const res = await axios.post("http://localhost:3000/register", form);
 
       alert("Đăng ký thành công!");
       navigate("/login");
     } catch (error) {
-      console.error(error);
-      alert("Đã xảy ra lỗi, vui lòng thử lại!");
+      if (error.response) {
+        alert(error.response.data);
+      } else {
+        alert("Không thể kết nối server!");
+      }
     }
   };
 

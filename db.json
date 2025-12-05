@@ -2,14 +2,14 @@
   "tours": [
     {
       "id": "d836",
-      "name": "uhuhuhuhkaka",
+      "name": "uhuhuhuhkaka update",
       "destination": "Tour quốc tế",
       "duration": "2ngay3dem",
       "price": 212121,
       "image": "https://authentic-shoes.com/wp-content/uploads/2024/10/Nike-Book-1-Sunrise-Pink-Foam-HJ.png",
       "description": "kmkll",
       "available": 20,
-      "active": false
+      "active": true
     },
     {
       "id": "ef5b",
@@ -20,7 +20,7 @@
       "image": "https://picsum.photos/400/300?random=2",
       "description": "  nn",
       "available": 20,
-      "active": false
+      "active": true
     },
     {
       "name": "anhhieudeptrai",
@@ -110,38 +110,16 @@
   ],
   "users": [
     {
-      "id": "3e67",
-      "username": "nguyenminhthang6",
-      "email": "hoangkhai6979b@gmail.com",
-      "password": "12345678"
-    },
-    {
-      "id": "70ab",
-      "email": "hoangkhai6979b@gmail.com",
-      "password": "12345678"
-    },
-    {
-      "id": "a8c1",
-      "username": "nguyenminhthang6",
-      "email": "hgofjgfd@gmail.com",
-      "password": "12345678"
-    },
-    {
-      "id": "73cb",
-      "email": "hgofjgfh@gmail.com",
-      "password": "12345678"
-    },
-    {
-      "id": "7013",
-      "username": "03winter03",
-      "email": "admin@gmail.com",
-      "password": "12345678"
-    },
-    {
       "email": "hoangkhai2000a@gmail.com",
       "password": "$2a$10$42QMOsn9eyhHEACJjMOwW.O65VQirextNygMPj94Dn51.7pLRkehy",
       "username": "03winter03",
       "id": "tsDDrPR"
+    },
+    {
+      "email": "addds@gmail.com",
+      "password": "$2a$10$/oswwB9TqB4kORHXG31KD.sazYCtjeAzRJcm3uhi11ILUI.5PMYD6",
+      "username": "ruyyycuteee",
+      "id": "4UVxr16"
     }
   ]
 }
